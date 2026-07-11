@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-icon.png" alt="AKwind" width="120" />
+  <alt="AKwind" width="120" />
 </p>
 
 <h1 align="center">AKwind Updater</h1>
